@@ -1,1 +1,1 @@
-print(git leanring)
+print("git leanring")
